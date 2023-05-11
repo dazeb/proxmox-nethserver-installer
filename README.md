@@ -1,6 +1,6 @@
-# Proxmox nethserver Installer
+# Proxmox Nethserver Installer
 
-A Proxmox Helper Script to install nethserver in Proxmox.
+A Proxmox Helper Script to install Nethserver in Proxmox.
 
 ## How to use
 
