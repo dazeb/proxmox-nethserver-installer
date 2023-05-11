@@ -34,6 +34,10 @@ Password `Nethesis,1234`
 
 The installer will ask you to change the password.
 
+## Multiple machines
+
+Just run the script multiple times to add new nodes, the script will make sure they all have different ID's
+
 The installer will ask where to import the VM disk, How much RAM to allocate and the number of processor cores. The rest is automatic.
 Default values are 2GB RAM and 2 Cores.
 
