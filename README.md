@@ -25,6 +25,14 @@ Make the file executable then run the script.
 chmod +x nethserver-install.sh
 ./nethserver-install.sh
 ```
+## Accessing the Admin Panel
+
+To access the login page go to `vm-ip/cluster-admin` eg `192.168.0.111/cluster-admin`
+
+Login `admin`
+Password `Nethesis,1234`
+
+The installer will ask you to change the password.
 
 The installer will ask where to import the VM disk, How much RAM to allocate and the number of processor cores. The rest is automatic.
 Default values are 2GB RAM and 2 Cores.
