@@ -1,4 +1,6 @@
-# Proxmox Nethserver Installer
+![proxmox-nethserver-installer](https://github.com/dazeb/proxmox-nethserver-installer/assets/67932890/6417807b-439f-4433-80f0-0b3525f776f6)
+
+# Proxmox Nethserver 8 Installer
 
 A Proxmox Helper Script to install Nethserver in Proxmox.
 
