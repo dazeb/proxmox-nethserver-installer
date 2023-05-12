@@ -27,7 +27,7 @@ qm set "$ID" --scsi0 "$STORAGE:vm-$ID-disk-0"
 qm set "$ID" --boot order='scsi0'
 qm set "$ID" --scsihw virtio-scsi-pci
 qm set "$ID" --name 'nethserver' >/dev/null
-qm set "$ID" --description '### [Nethserver Website](https://ns8.nethserver.org/) >/dev/null
+qm set "$ID" --description '### [Nethserver Website](https://ns8.nethserver.org/)' >/dev/null
 
 # Tell user the virtual machine is created
 echo "VM $ID Created."
