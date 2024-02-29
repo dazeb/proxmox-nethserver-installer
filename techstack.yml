@@ -2,7 +2,7 @@ repo_name: dazeb/proxmox-nethserver8-installer
 report_id: d2b5737b0a3289a932e1b1e78ca3719b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-11T19:06:06+00:00'
+timestamp: '2024-02-29T19:26:55+00:00'
 requested_by: dazeb
 provider: github
 branch: main
